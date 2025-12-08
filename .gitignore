@@ -1,0 +1,39 @@
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node modules (if you add any npm packages later)
+node_modules/
+
+# Build files (if you add a build process later)
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+old/
+
+# Project specific
+# Uncomment if you don't want to track resume updates
+# resume/*.pdf
+Summary.md
+QUICK-START.md
+IMAGE-ASSETS-GUIDE.md
